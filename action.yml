@@ -1,0 +1,8 @@
+name: 'Document Action'
+description: 'Documenta cambios en funciones'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'bookmark'
+  color: 'purple'
